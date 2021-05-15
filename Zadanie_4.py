@@ -16,4 +16,4 @@ for i in range(0,n-1):
             maks=lista[i]
             lista[i]=lista[j]
             lista[j]=maks
-            
+       print(lista)    
